@@ -1,14 +1,11 @@
-from typing import Set
-import sys
 import os
+import sys
+from typing import Set
 
 print('Aloha World!')
 
-kume: Set[int] = set(())
+kume: Set[int] = set()
 print(kume)
 
 if kume == 5:
     print(kume)
-
-    
-    
