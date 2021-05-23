@@ -1,14 +1,12 @@
-import sys
 import os
+import sys
 
 
 print('Aloha World!')
 
-kume = set(()) 
+kume = set()
 print(kume)
 
 
-if kume is 5:
-  print(kume)
-  
- 
+if kume == 5:
+    print(kume)
