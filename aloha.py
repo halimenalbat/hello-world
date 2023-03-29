@@ -5,5 +5,5 @@ print('Aloha World!')
 kume: Set[int] = set()
 print(kume)
 
-if kume == 5:
+if kume == set():
     print(kume)
